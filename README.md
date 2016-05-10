@@ -5,7 +5,7 @@ A character song of Densho-chan.
 
 ![Thumbnail](thumbnail.png)
 
-[View on Youtube.](youtu.be/pSCLuQpp1y8)
+[View on Youtube.](https://youtu.be/pSCLuQpp1y8)
 
 Credits
 -------
